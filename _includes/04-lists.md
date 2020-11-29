@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- I love frogs.
+- I love video games.
+- I would love to make world a better place.
