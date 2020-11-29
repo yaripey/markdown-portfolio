@@ -1,0 +1,3 @@
+- I love frogs.
+- I love video games.
+- I would love to make world a better place.
